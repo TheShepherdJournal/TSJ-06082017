@@ -1,7 +1,7 @@
 # Content
 * [Introduction](README.md)
 
-### Schools
+##Schools
 * [SHS Announcements](SHS06072017Announcements.md)
 
 
