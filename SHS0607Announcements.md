@@ -1,5 +1,5 @@
 ---
-title: Announcements for Wednesday, June 7, 2017:
+title: Announcements for Wednesday, June 7, 2017
 layout: post
 author: shepherdonlinehq
 permalink: /announcements-for-wednesday,-june-7,-2017:/
