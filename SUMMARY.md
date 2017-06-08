@@ -2,5 +2,7 @@
 * [Introduction](README.md)
 
 ## Schools
-* [New Article](Newarticle.md)
+
+* [SHS 06/07/2017 Announcements](SHS06072017Announcements.md)
+
 
